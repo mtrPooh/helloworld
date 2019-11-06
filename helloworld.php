@@ -1,3 +1,5 @@
-<?
-echo "Hello World";
-?>
+<?php
+
+declare(strict_types=1);
+
+echo 'Hello GitHub!';
